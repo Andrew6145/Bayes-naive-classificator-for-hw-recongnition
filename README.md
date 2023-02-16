@@ -1,0 +1,1 @@
+# Bayes-naive-classificator-for-hw-recongnition
